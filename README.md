@@ -30,22 +30,22 @@ D'Food Map website pencarian restaurant terdekat
 __Home Page__
 
 
-![Home](screenshot/home.JPG)
+![Home](screenshoot/home.JPG)
 
 __Detail__
 
 
-![Detail](screenshot/deatil.JPG)
+![Detail](screenshoot/deatil.JPG)
 
 __Favorite__
 
 
-![favorite](screenshot/favorite.JPG)
+![favorite](screenshoot/favorite.JPG)
 
 __Review__
 
 
-![Review](screenshot/review.JPG)
+![Review](screenshoot/review.JPG)
 
 ---
 
